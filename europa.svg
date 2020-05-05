@@ -2,22 +2,22 @@
 <svg viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
 	<defs>
 		<pattern id="background" height="100%" viewBox="0 0 1024 1024" width="100%">
-			<rect fill="#C50119" height="1024" width="1024"/>
-			<path d="m419,534l367,-256l-493,4z" fill="#A8021E"/>
-			<path d="m786,278l-12,-344l-481,348z" fill="#AB021D"/>
-			<path d="m419,534l474,203l-107,-459z" fill="#9C0220"/>
-			<path d="m786,278l559,-212l-571,-132z" fill="#A2021F"/>
-			<path d="m774,-66l-632,-230l151,578z" fill="#B7021C"/>
-			<path d="m142,-296l-276,298l427,280z" fill="#C1011A"/>
-			<path d="m293,282l-479,566l605,-314z" fill="#AC021D"/>
-			<path d="m419,534l5,552l469,-349z" fill="#970220"/>
-			<path d="m-186,848l610,238l-5,-552z" fill="#A2021F"/>
-			<path d="m893,737l277,87l-384,-546z" fill="#910220"/>
-			<path d="m967,1134l203,-310l-277,-87z" fill="#850220"/>
-			<path d="m1170,824l175,-758l-559,212z" fill="#960220"/>
-			<path d="m-134,2l-52,846l479,-566z" fill="#B8021C"/>
-			<path d="m424,1086l543,48l-74,-397z" fill="#8B0220"/>
-			<path d="m-186,848l138,520l472,-282z" fill="#A1021F"/>
+			<rect fill="#810220" height="1024" width="1024"/>
+			<path d="m419,534l367,-256l-493,4z" fill="#8B0220"/>
+			<path d="m786,278l-12,-344l-481,348z" fill="#8C071E"/>
+			<path d="m419,534l474,203l-107,-459z" fill="#6D091D"/>
+			<path d="m786,278l559,-212l-571,-132z" fill="#6B161C"/>
+			<path d="m774,-66l-632,-230l151,578z" fill="#AA021E"/>
+			<path d="m142,-296l-276,298l427,280z" fill="#BE011B"/>
+			<path d="m293,282l-479,566l605,-314z" fill="#92041F"/>
+			<path d="m419,534l5,552l469,-349z" fill="#5F0F1B"/>
+			<path d="m-186,848l610,238l-5,-552z" fill="#73101C"/>
+			<path d="m893,737l277,87l-384,-546z" fill="#4D141A"/>
+			<path d="m967,1134l203,-310l-277,-87z" fill="#321819"/>
+			<path d="m1170,824l175,-758l-559,212z" fill="#56141B"/>
+			<path d="m-134,2l-52,846l479,-566z" fill="#AC021E"/>
+			<path d="m424,1086l543,48l-74,-397z" fill="#3E1719"/>
+			<path d="m-186,848l138,520l472,-282z" fill="#68181D"/>
 		</pattern>
 	</defs>
 	<rect fill="url(#background)" height="1024" rx="180" width="1024"/>
